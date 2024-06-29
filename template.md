@@ -14,6 +14,8 @@ emoji
 🌦️ 天气：{{weather.DATA}}
 🌡 气温：{{temp.DATA}}    | 🌪️  风向：{{wind_dir.DATA}}
 🌈 对你说的话：{{today_note.DATA}}
+🎁🎁🎁
 ```
-
++ 有雨时段： xxxx
 💭
+天气预报来咯
